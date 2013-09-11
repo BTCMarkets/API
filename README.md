@@ -19,10 +19,10 @@ Market data:
 https://github.com/BTCMarkets/API/wiki/Market-data-API
  
 
-Account Management:
+Account management:
 
 
-Fund Transfers:
+Fund transfers:
 
 
 Sample Java Application:
