@@ -15,6 +15,10 @@ Trading:
 https://github.com/BTCMarkets/API/wiki/Trade-API
 
 
+Market data:
+https://github.com/BTCMarkets/API/wiki/Market-data-API
+ 
+
 Account Management:
 
 
