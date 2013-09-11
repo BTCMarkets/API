@@ -1,5 +1,7 @@
 
-This reposutiry covers providers API documentation. Please refer to the wiki area to find out more.  
+This repository providers documentation for BTC Markets' API. 
+
+For more information please refer to the wiki area.  
 
 Introduction:
 https://github.com/BTCMarkets/API/wiki/Introduction
@@ -8,5 +10,15 @@ https://github.com/BTCMarkets/API/wiki/Introduction
 Authentication:
 https://github.com/BTCMarkets/API/wiki/Authentication
 
-Trade API:
+
+Trading:
 https://github.com/BTCMarkets/API/wiki/Trade-API
+
+
+Account Management:
+
+
+Fund Transfers:
+
+
+
