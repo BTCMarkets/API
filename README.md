@@ -1,5 +1,5 @@
 
-This repository providers documentation for BTC Markets' API. 
+This repository provides documentation for BTC Markets' API. 
 
 For more information please refer to the wiki area.  
 
@@ -20,6 +20,7 @@ https://github.com/BTCMarkets/API/wiki/Market-data-API
  
 
 Account management:
+https://github.com/BTCMarkets/API/wiki/Account-API
 
 
 Fund transfers:
