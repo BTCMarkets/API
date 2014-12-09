@@ -25,9 +25,9 @@ https://github.com/BTCMarkets/API/wiki/Account-API
 
 Sample Code:
 
-Java: https://github.com/BTCMarkets/sample-api-client-java
-Java: https://github.com/vogelito/sample-api-client-java
-NodeJS: https://github.com/naddison36/btc-markets
+Java: https://github.com/BTCMarkets/sample-api-client-java<br />
+Java: https://github.com/vogelito/sample-api-client-java<br />
+NodeJS: https://github.com/naddison36/btc-markets<br />
 Python: https://github.com/adversary-org/python-btcmarkets
 
 
