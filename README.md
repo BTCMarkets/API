@@ -29,5 +29,6 @@ Java: https://github.com/BTCMarkets/sample-api-client-java<br />
 Java: https://github.com/vogelito/sample-api-client-java<br />
 NodeJS: https://github.com/naddison36/btc-markets<br />
 Python: https://github.com/adversary-org/python-btcmarkets
+CSharp: https://github.com/jyoung80/csharp_BTC_Markets_Harness
 
-
+Thanks for the above users for kindly providing thier sample code. 
