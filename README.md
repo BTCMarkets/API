@@ -23,11 +23,11 @@ Account management:
 https://github.com/BTCMarkets/API/wiki/Account-API
 
 
-Sample Code (Official Supported):
+<strong>Sample Code (Officially supported)</strong>
 
 Java: https://github.com/BTCMarkets/sample-api-client-java<br />
 
-Sample Code (Created by third parties)
+<strong>SSample Code (Created by third parties)</strong>
 
 Please note that the code samples below have been generously created by our users. Since these are not official samples please ensure you check and trust the code before using them. 
 
