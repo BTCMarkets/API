@@ -22,6 +22,9 @@ https://github.com/BTCMarkets/API/wiki/Market-data-API
 Account management:
 https://github.com/BTCMarkets/API/wiki/Account-API
 
+Fund Transfer:
+https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API
+
 
 <strong>Sample Code (Officially supported)</strong>
 
