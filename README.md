@@ -1,7 +1,14 @@
+# BTC Markets Developer API
+
+
+
+## Trading APIs
+
 
 This repository provides documentation for BTC Markets' API. 
 
 For more information please refer to the wiki area.  
+
 
 Introduction:
 https://github.com/BTCMarkets/API/wiki/Introduction
@@ -26,12 +33,17 @@ Fund Transfer:
 https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API
 
 
-<strong>Sample Code (Officially supported)</strong>
+## Websocket
+documentation is coming soon. 
+
+
+
+## Sample Codes (Officially supported)
 
 Java: https://github.com/BTCMarkets/sample-api-client-java<br />
 
-<strong>Sample Code (Created by third parties)</strong>
 
+## Sample Codes (Created by third parties)
 Please note that the code samples below have been generously created by our users. Since these are not official samples please ensure you check and trust the code before using them. 
 
 Java: https://github.com/vogelito/sample-api-client-java<br />
