@@ -34,7 +34,9 @@ https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API
 
 
 ## Websocket
-documentation is coming soon. 
+
+public market events:
+https://github.com/BTCMarkets/API/wiki/websocket
 
 
 
