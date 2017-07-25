@@ -32,6 +32,9 @@ https://github.com/BTCMarkets/API/wiki/Account-API
 Fund Transfer:
 https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API
 
+FAQ:
+https://github.com/BTCMarkets/API/wiki/faq
+
 
 ## Websocket
 
