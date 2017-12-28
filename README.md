@@ -58,5 +58,6 @@ Python: https://github.com/BTCMarkets/api-client-python<br />
 CSharp: https://github.com/jyoung80/csharp_BTC_Markets_Harness<br />
 Ruby: https://github.com/nolim1t/btcmarkets-gem and https://github.com/tennantje/btcmrb <br />
 C++: https://github.com/moneroexamples/btcmarkets-cpp
+Go: https://github.com/dangrier/gobtcmarkets
 
 Thanks to our API users for kindly providing their sample code. 
