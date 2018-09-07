@@ -5,7 +5,7 @@
 ## Trading APIs
 
 
-This repository provides documentation for BTC Markets' API. 
+This repository provides documentation for BTC Markets' API.
 
 For more information please refer to the wiki area.  
 
@@ -24,7 +24,7 @@ https://github.com/BTCMarkets/API/wiki/Trading-API
 
 Market data:
 https://github.com/BTCMarkets/API/wiki/Market-data-API
- 
+
 
 Account management:
 https://github.com/BTCMarkets/API/wiki/Account-API
@@ -49,14 +49,15 @@ Java: https://github.com/BTCMarkets/sample-api-client-java<br />
 
 
 ## Sample Codes (Created by third parties)
-Please note that the code samples below have been generously created by our users. Since these are not official samples please ensure you check and trust the code before using them. 
+Please note that the code samples below have been generously created by our users. Since these are not official samples please ensure you check and trust the code before using them.
 
 Java: https://github.com/vogelito/sample-api-client-java<br />
 NodeJS: https://github.com/naddison36/btc-markets<br />
 Python: https://github.com/adversary-org/python-btcmarkets<br />
 Python: https://github.com/BTCMarkets/api-client-python<br />
+Python3: https://github.com/Aquafortis/btcmarkets-python-plus<br />
 CSharp: https://github.com/jyoung80/csharp_BTC_Markets_Harness<br />
 Ruby: https://github.com/nolim1t/btcmarkets-gem and https://github.com/tennantje/btcmrb <br />
 C++: https://github.com/moneroexamples/btcmarkets-cpp
 
-Thanks to our API users for kindly providing their sample code. 
+Thanks to our API users for kindly providing their sample code.
