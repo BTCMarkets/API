@@ -2,44 +2,30 @@
 
 
 
-## Trading APIs
-
+## APIs
 
 This repository provides documentation for BTC Markets' API. 
 
 For more information please refer to the wiki area.  
 
+* [Introduction](https://github.com/BTCMarkets/API/wiki/Introduction)
 
-Introduction:
-https://github.com/BTCMarkets/API/wiki/Introduction
+* [Authentication](https://github.com/BTCMarkets/API/wiki/Authentication)
 
+* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API)
 
-Authentication:
-https://github.com/BTCMarkets/API/wiki/Authentication
-
-
-Trading:
-https://github.com/BTCMarkets/API/wiki/Trading-API
-
-
-Market data:
-https://github.com/BTCMarkets/API/wiki/Market-data-API
+* [Market data](https://github.com/BTCMarkets/API/wiki/Market-data-API) Updated 9/28!
  
+* [Account management](https://github.com/BTCMarkets/API/wiki/Account-API)
 
-Account management:
-https://github.com/BTCMarkets/API/wiki/Account-API
+* [Fund Transfer](https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API)
 
-Fund Transfer:
-https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API
-
-FAQ:
-https://github.com/BTCMarkets/API/wiki/faq
+* [FAQ](https://github.com/BTCMarkets/API/wiki/faq)
 
 
 ## Websocket
 
-public market events:
-https://github.com/BTCMarkets/API/wiki/websocket
+[Public Market Events](https://github.com/BTCMarkets/API/wiki/websocket)
 
 
 
