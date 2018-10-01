@@ -12,7 +12,7 @@ For more information please refer to the wiki area.
 
 * [Authentication](https://github.com/BTCMarkets/API/wiki/Authentication)
 
-* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API)
+* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API) Updated 10/1!
 
 * [Market data](https://github.com/BTCMarkets/API/wiki/Market-data-API) Updated 9/28!
  
