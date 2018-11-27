@@ -1,5 +1,8 @@
 # BTC Markets Developer API
 
+## News
+
+**11/27** - Stop Limit trading has now been enabled for `/AUD` markets! Please see the updated Trading API docs.
 
 
 ## APIs
@@ -12,7 +15,7 @@ For more information please refer to the wiki area.
 
 * [Authentication](https://github.com/BTCMarkets/API/wiki/Authentication)
 
-* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API) Updated 10/1!
+* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API) Updated 11/27!
 
 * [Market data](https://github.com/BTCMarkets/API/wiki/Market-data-API) Updated 9/28!
  
