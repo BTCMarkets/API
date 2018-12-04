@@ -15,13 +15,13 @@ For more information please refer to the wiki area.
 
 * [Authentication](https://github.com/BTCMarkets/API/wiki/Authentication)
 
-* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API) Updated 11/27!
+* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API) **Updated 11/27/18**
 
-* [Market data](https://github.com/BTCMarkets/API/wiki/Market-data-API) Updated 9/28!
+* [Market data](https://github.com/BTCMarkets/API/wiki/Market-data-API) **Updated 9/28/18**
  
 * [Account management](https://github.com/BTCMarkets/API/wiki/Account-API)
 
-* [Fund Transfer](https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API)
+* [Fund Transfer](https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API) **Updated 12/4/18**
 
 * [FAQ](https://github.com/BTCMarkets/API/wiki/faq)
 
