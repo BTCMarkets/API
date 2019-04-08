@@ -1,9 +1,5 @@
 # BTC Markets Developer API
 
-## News
-
-**11/27** - Stop Limit trading has now been enabled for `/AUD` markets! Please see the updated Trading API docs.
-
 
 ## APIs
 
@@ -26,10 +22,11 @@ For more information please refer to the wiki area.
 * [FAQ](https://github.com/BTCMarkets/API/wiki/faq)
 
 
-## Websocket
+## WebSocket feed
 
-[Public Market Events](https://github.com/BTCMarkets/API/wiki/websocket)
+[WebSocket v2](https://github.com/BTCMarkets/API/wiki/WebSocket-v2-%28beta%29)
 
+[WebSocket v1](https://github.com/BTCMarkets/API/wiki/websocket)
 
 
 ## Sample Codes (Officially supported)
