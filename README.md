@@ -24,7 +24,7 @@ For more information please refer to the wiki area.
 
 ## WebSocket feed
 
-[WebSocket v2](https://github.com/BTCMarkets/API/wiki/WebSocket-v2-%28beta%29)
+[WebSocket v2](https://github.com/BTCMarkets/API/wiki/WebSocket-v2)
 
 [WebSocket v1](https://github.com/BTCMarkets/API/wiki/websocket)
 
