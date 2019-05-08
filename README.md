@@ -38,6 +38,8 @@ Java: https://github.com/BTCMarkets/sample-api-client-java<br />
 Please note that the code samples below have been generously created by our users. Since these are not official samples please ensure you check and trust the code before using them. 
 
 Java: https://github.com/vogelito/sample-api-client-java<br />
+NodeJS: https://github.com/Azerothian/btc-markets-api<br />
+NodeJS (Websockets): https://github.com/Azerothian/btc-markets-ws-api<br />
 NodeJS: https://github.com/naddison36/btc-markets<br />
 Python: https://github.com/adversary-org/python-btcmarkets<br />
 Python: https://github.com/BTCMarkets/api-client-python<br />
