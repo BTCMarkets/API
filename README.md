@@ -11,13 +11,13 @@ For more information please refer to the wiki area.
 
 * [Authentication](https://github.com/BTCMarkets/API/wiki/Authentication)
 
-* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API) **Updated 11/27/18**
+* [Trading](https://github.com/BTCMarkets/API/wiki/Trading-API) <sub>updated 03/15/19</sub>
 
-* [Market data](https://github.com/BTCMarkets/API/wiki/Market-data-API) **Updated 9/28/18**
+* [Market data](https://github.com/BTCMarkets/API/wiki/Market-data-API) <sub>updated 7/24/19</sub>
  
-* [Account management](https://github.com/BTCMarkets/API/wiki/Account-API)
+* [Account management](https://github.com/BTCMarkets/API/wiki/Account-API) <sub>updated 3/14/19</sub>
 
-* [Fund Transfer](https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API) **Updated 05/22/19**
+* [Fund Transfer](https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API) <sub>updated 05/22/19</sub>
 
 * [FAQ](https://github.com/BTCMarkets/API/wiki/faq)
 
@@ -26,7 +26,7 @@ For more information please refer to the wiki area.
 
 [WebSocket v2](https://github.com/BTCMarkets/API/wiki/WebSocket-v2)
 
-[WebSocket v1 - now deprecated](https://github.com/BTCMarkets/API/wiki/websocket)
+[WebSocket v1 - deprecated](https://github.com/BTCMarkets/API/wiki/websocket)
 
 
 ## Sample Codes (Officially supported)
@@ -44,6 +44,7 @@ Python: https://github.com/BTCMarkets/api-client-python<br />
 Python3: https://github.com/BTCMarkets/api-client-python3<br />
 CSharp: https://github.com/jyoung80/csharp_BTC_Markets_Harness<br />
 Ruby: https://github.com/nolim1t/btcmarkets-gem and https://github.com/tennantje/btcmrb <br />
-C++: https://github.com/moneroexamples/btcmarkets-cpp
+C++: https://github.com/moneroexamples/btcmarkets-cpp <br />
+PHP: https://github.com/BTCMarkets/api-client-php
 
 Thanks to our API users for kindly providing their sample code. 
