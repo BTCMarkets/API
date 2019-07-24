@@ -26,7 +26,7 @@ For more information please refer to the wiki area.
 
 [WebSocket v2](https://github.com/BTCMarkets/API/wiki/WebSocket-v2)
 
-[WebSocket v1](https://github.com/BTCMarkets/API/wiki/websocket)
+[WebSocket v1 - now deprecated](https://github.com/BTCMarkets/API/wiki/websocket)
 
 
 ## Sample Codes (Officially supported)
