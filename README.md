@@ -17,7 +17,7 @@ For more information please refer to the wiki area.
  
 * [Account management](https://github.com/BTCMarkets/API/wiki/Account-API) <sub>updated 3/14/19</sub>
 
-* [Fund Transfer](https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API) <sub>updated 05/22/19</sub>
+* [Fund Transfer](https://github.com/BTCMarkets/API/wiki/Fund-Transfer-API) <sub>updated 08/06/19</sub>
 
 * [FAQ](https://github.com/BTCMarkets/API/wiki/faq)
 
