@@ -32,19 +32,18 @@ For more information please refer to the wiki area.
 ## Sample Codes (Officially supported)
 
 Java: https://github.com/BTCMarkets/sample-api-client-java<br />
-
+Node.js: https://github.com/BTCMarkets/api-client-node
+PHP: https://github.com/BTCMarkets/api-client-php
+Python: https://github.com/BTCMarkets/api-client-python<br />
+Python3: https://github.com/BTCMarkets/api-client-python3<br />
 
 ## Sample Codes (Created by third parties)
 Please note that the code samples below have been generously created by our users. Since these are not official samples please ensure you check and trust the code before using them. 
 
-Java: https://github.com/BTCMarkets/sample-api-client-java<br />
 NodeJS: https://github.com/naddison36/btc-markets<br />
 Python: https://github.com/adversary-org/python-btcmarkets<br />
-Python: https://github.com/BTCMarkets/api-client-python<br />
-Python3: https://github.com/BTCMarkets/api-client-python3<br />
 CSharp: https://github.com/jyoung80/csharp_BTC_Markets_Harness<br />
 Ruby: https://github.com/nolim1t/btcmarkets-gem and https://github.com/tennantje/btcmrb <br />
 C++: https://github.com/moneroexamples/btcmarkets-cpp <br />
-PHP: https://github.com/BTCMarkets/api-client-php
 
 Thanks to our API users for kindly providing their sample code. 
