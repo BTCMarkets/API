@@ -1,7 +1,7 @@
 # BTC Markets Developer API
 
 # API v3
-We are launching a new version of trading API that includes several improvements and new features. 
+We have recently launched a new version of trading API that includes several improvements and new features.  
 
 We encourage using our latest API for any new trading projects.  
 
