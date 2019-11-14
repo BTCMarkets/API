@@ -51,7 +51,10 @@ Please note that the code samples below have been generously created by our user
 * NodeJS: https://github.com/naddison36/btc-markets<br />
 * Python: https://github.com/adversary-org/python-btcmarkets<br />
 * CSharp: https://github.com/jyoung80/csharp_BTC_Markets_Harness<br />
-* Ruby: https://github.com/nolim1t/btcmarkets-gem and https://github.com/tennantje/btcmrb <br />
+* Ruby: 
+    - https://github.com/2pd/btcmarkets-ruby
+    - https://github.com/nolim1t/btcmarkets-gem
+    - https://github.com/tennantje/btcmrb <br />
 * C++: https://github.com/moneroexamples/btcmarkets-cpp <br />
 
 Thanks to our API users for kindly providing their sample code. 
