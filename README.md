@@ -58,5 +58,6 @@ Please note that the code samples below have been generously created by our user
     - https://github.com/nolim1t/btcmarkets-gem
     - https://github.com/tennantje/btcmrb <br />
 * C++: https://github.com/moneroexamples/btcmarkets-cpp <br />
+* Golang: https://github.com/MflowAU/btcmarkets <br />
 
 Thanks to our API users for kindly providing their sample code. 
