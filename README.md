@@ -11,7 +11,7 @@ https://api.btcmarkets.net/doc/v3#section/Introduction
 
 
 
-# API v1/v2
+# API v1/v2 (legacy)
 
 This repository provides documentation for BTC Markets' API. 
 
