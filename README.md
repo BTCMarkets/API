@@ -7,7 +7,7 @@ We have recently launched a new version of trading API that includes several imp
 
 We encourage using our latest API for any new trading projects.  
 
-https://api.btcmarkets.net/doc/v3#section/Introduction
+https://docs.btcmarkets.net
 
 
 
